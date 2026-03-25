@@ -1,5 +1,10 @@
 Open Source Software Capstone Project
 
+Software chosen by me is Git
+
+BY
+Avinash Singh Thakur(24BCE10370)
+
 1. Introduction
 
 This project is developed as part of the Open Source Software course. The motive of this project is to understand the working of Linux-based open-source systems and to gain practical experience in shell scripting.
