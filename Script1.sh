@@ -1,9 +1,7 @@
 #!/bin/bash
-
 #Script-1:System Identity Report
 #Author:Avinash Singh Thakur
 #Course:Open Source Software
-
 #variables(student/project information)
 STUDENT_NAME="Avinash Singh Thakur"
 SOFTWARE_CHOICE="Git"
