@@ -1,9 +1,7 @@
 #!/bin/bash
-
-#Scripingt-4: Log File Analyzer
-#Authoingr:Avinaingsh Singh Thakur
-#Coursinge:Open ingSource Software
-
+#Script-4: Log File Analyzer
+#Author:Avinash Singh Thakur
+#Course:Open ingSource Software
 LOGFILE=$1
 KEYWORD=${2:-"error"}
 COUNT=0
