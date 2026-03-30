@@ -1,9 +1,7 @@
 #!/bin/bash
-
 #Script-2: FOSS Package Inspector
 #Author:Avinash Singh Thakur
 #Course:Open Source Software 
-
 #package name
 PACKAGE="git"
 
